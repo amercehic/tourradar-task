@@ -1,0 +1,17 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dashboard": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "typescript"
+  ],
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "typescript": "^5.0.4"
+  }
+}
