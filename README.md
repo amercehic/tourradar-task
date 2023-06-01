@@ -21,3 +21,5 @@ To open Cypress Dashboard, use the following command:
 ```bash
 yarn run dashboard
 ```
+
+Once the Dashboard is open, you can select any spec to run.
